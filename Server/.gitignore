@@ -1,0 +1,4 @@
+virtualenvs
+.env
+venv
+env
